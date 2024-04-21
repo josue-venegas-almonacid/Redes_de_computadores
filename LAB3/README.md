@@ -2,7 +2,7 @@
 LAB 3
 
 # Descripción
-Configuración de dos redes con una topología de tipo anillo simple y otra topología de dos caminos en Python
+Configuración de dos redes con una topología de tipo anillo simple y otra topología de dos caminos en Python y Mininet
 
 Etiquetas:
 
