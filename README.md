@@ -2,7 +2,7 @@
 Redes de Computadores
 
 # Descripción
-Repositorio utilizado para alojar los ejercicios desarrollados durante el curso "Redes de Computadores"
+Repositorio utilizado para alojar los ejercicios desarrollados durante el curso "Redes de Computadores" el primer semestre del año 2021 en la Universidad Técnica Federico Santa María, para la carrera de Ingeniería Civil en Informática.
 
 # Creadores
 Valentin Riveros 201873583-3
